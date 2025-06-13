@@ -1,50 +1,33 @@
-# Mohammed-Izhan-I
-👋 **Hi, I'm Mohd. Izhan (@IzhanRuaif)**  
-🎓 I’m a Software Engineering student at VIT Vellore, passionate about building smart, scalable tech solutions.  
-💡 I enjoy solving real-world problems using full-stack development and machine learning.
+### 👋 Hi, I’m @IzhanRuaif
 
----
+👀 **I'm interested in**  
+- Software development  
+- Machine learning & AI  
+- Building full-stack web apps  
+- Exploring new frameworks & open-source  
 
-**👀 Interests**  
-- Software development & full-stack web apps  
-- Machine Learning & AI applications  
-- UI/UX design & user-centered development  
-- Open-source contributions  
+🌱 **Currently learning**  
+- React, Tailwind CSS, Node.js  
+- MongoDB, Express.js  
+- Azure Cloud  
+- Data science and ML algorithms
 
----
-
-**🌱 Currently Learning**  
-- React.js, Next.js, and Tailwind CSS  
-- Node.js, MongoDB, Express.js  
-- Cloud platforms like Azure  
-- ML model building with Python (scikit-learn, pandas, matplotlib)
-
----
-
-**💼 Projects**  
-- **QuizWhizz** – An exam management system with student and admin modules  
-- **Ossvvel** – A tile-based e-commerce website featuring quick look & EMI options  
-- **Rainfall Prediction** – ML-based prediction system using meteorological data  
+💼 **Projects**  
+- [**Ossvvel**](https://ossvveltiles.com/) – A tile-based e-commerce website featuring QuickLook & EMI options  
 - **Glassify** – Eyewear store with a virtual try-on experience  
-- **Mindora** – A guided mental wellness chatbot
+- **Mindora** – A guided mental wellness chatbot  
+- **FestFusion** – A platform for college fest event organization and registration  
+- **SportsFiesta** – Sports event tracking system for teams and match schedules  
 
----
+💞️ **Looking to collaborate on**  
+- Full-stack web projects  
+- AI/ML-based applications  
+- Python or JavaScript open-source tools  
 
-**🤝 Looking to Collaborate On**  
-- ML/AI-based real-world projects  
-- Full-stack apps using modern JavaScript frameworks  
-- Web projects needing clean UI/UX
+📫 **How to reach me**  
+- Email: izhanmohammed08@gmail.com  
+- LinkedIn: [Mohammed Izhan I](https://www.linkedin.com/in/mohammed-izhan-i-bb95032b1)
 
----
-
-**📫 Contact Me**  
-📧 Email: mohdizhan123@gmail.com  
-💼 LinkedIn: [linkedin.com/in/izhan](https://linkedin.com/in/izhan)
-
----
-
-**😄 About Me**  
-- Pronouns: He/Him  
-- I enjoy playing **cricket** — my favorite sport since childhood  
-- I love **watching movies**, especially thrillers & sci-fi  
-- Always curious to explore & learn new tech!
+⚡ **Fun fact**  
+I love playing **cricket** – it’s been my favorite sport since childhood!  
+And I enjoy watching **movies**, especially thrillers and sci-fi.
