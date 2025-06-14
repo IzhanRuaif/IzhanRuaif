@@ -27,7 +27,7 @@
 📫 **How to reach me**  
 - Email: izhanmohammed08@gmail.com  
 - LinkedIn: [Mohammed Izhan I](https://www.linkedin.com/in/mohammed-izhan-i-bb95032b1)
+## ⚡ Outside of Work
 
-⚡ **Fun fact**  
-I love playing **cricket** – it’s been my favorite sport since childhood!  
-And I enjoy watching **movies**, especially thrillers and sci-fi.
+Cricket has always been my go-to sport — I've enjoyed playing it since childhood.  
+I'm also a movie enthusiast, especially into thrillers and sci-fi genres.
