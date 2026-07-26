@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @IzhanRuaif
+### 👋 Hi, I’m Mohammed Izhan 
 
 ## 👀 I'm interested in  
 - Software development  
