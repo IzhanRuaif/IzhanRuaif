@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Mohammed%20Izhan%20I&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20GenAI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+with+Java+%26+Spring+Boot;Engineering+Generative+AI+%2F+RAG+powered+platforms;Full-Stack+Developer+%7C+React.js+%2B+REST+APIs;Turning+ideas+into+production-grade+software" alt="Typing SVG" />
-</a>
+<h3 align="center">
+  Building scalable backend systems with Java &amp; Spring Boot · Engineering Generative AI &amp; RAG platforms · Full-Stack Developer
+</h3>
 
 <br/>
 
@@ -15,11 +15,18 @@
 <br/>
 
 <a href="https://izhan-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammedizhan/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:izhanmohammed08@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/IzhanRuaif"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IzhanRuaif&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/IzhanRuaif?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/IzhanRuaif?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
+
+</div>
+
 <br/>
 
 ## ⟡ About Me
@@ -353,7 +360,7 @@ open_to:
 <div align="center">
 
 <a href="mailto:izhanmohammed08@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammedizhan/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/IzhanRuaif"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://izhan-portfolio-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
