@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Mohammed%20Izhan%20I&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20GenAI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<h3 align="center">
-  Building scalable backend systems with Java &amp; Spring Boot · Engineering Generative AI &amp; RAG platforms · Full-Stack Developer
-</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%C2%A0Building+scalable+backend+systems+with+Java+%26+Spring+Boot;%C2%A0Engineering+Generative+AI+%26+RAG+platforms;%C2%A0Full-Stack+Developer+%7C+React.js+%2B+REST+APIs;%C2%A0Turning+ideas+into+production-grade+software%C2%A0" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -18,12 +18,6 @@
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:izhanmohammed08@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/IzhanRuaif"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=IzhanRuaif&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/IzhanRuaif?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/IzhanRuaif?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
 
 </div>
 
@@ -275,21 +269,6 @@ Independently owned the full development lifecycle of a responsive, SEO-optimize
 
 <br/>
 
-## ⟡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/IzhanRuaif"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/IzhanRuaif"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/IzhanRuaif"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/IzhanRuaif"><img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-<sub>*(Update handles above to match your actual profile usernames)*</sub>
-
-</div>
-
-<br/>
-
 ## ⟡ GitHub Analytics
 
 <div align="center">
@@ -305,31 +284,11 @@ Independently owned the full development lifecycle of a responsive, SEO-optimize
 
 <br/>
 
-## ⟡ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IzhanRuaif&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
 ## ⟡ Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzhanRuaif&theme=redical&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## ⟡ Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IzhanRuaif/IzhanRuaif/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
