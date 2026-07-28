@@ -19,14 +19,7 @@
 <a href="mailto:izhanmohammed08@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/IzhanRuaif"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=IzhanRuaif&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/IzhanRuaif?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/IzhanRuaif?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
-
-</div>
-
+<br/>
 <br/>
 
 ## ⟡ About Me
