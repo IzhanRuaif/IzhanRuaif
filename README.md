@@ -273,12 +273,7 @@ Independently owned the full development lifecycle of a responsive, SEO-optimize
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IzhanRuaif&show_icons=false&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IzhanRuaif&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzhanRuaif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IzhanRuaif&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
 
 </div>
 
