@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Mohammed%20Izhan%20I&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20GenAI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?weight=600&size=24&duration=4500&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=%C2%A0%C2%A0Building+scalable+backend+systems+with+Java+%26+Spring+Boot%C2%A0%C2%A0;%C2%A0%C2%A0Engineering+Generative+AI+%26+RAG+platforms%C2%A0%C2%A0;%C2%A0%C2%A0Full-Stack+Developer+%7C+React.js+%2B+REST+APIs%C2%A0%C2%A0;%C2%A0%C2%A0Turning+ideas+into+production-grade+software%C2%A0%C2%A0" alt="Typing SVG" />
-</a>
+<h3 align="center">
+  Building scalable backend systems with Java &amp; Spring Boot<br/>Engineering Generative AI &amp; RAG platforms · Full-Stack Developer
+</h3>
 
 <br/>
 
